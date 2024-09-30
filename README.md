@@ -1,16 +1,11 @@
-## Olá sou Gabriel Marcato 🚀.
+## Olá me chamo Gabriel Marcato, sou desenvolvedor FullStack 🚀.
 
-## 🛠 Áreas:
 
-### • Desenvolvimento FullStack 💻
-
-### • Análise de Dados/Sistemas 📊
-
-## Social:
+### Social:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielomarcato/)
 
-## Tecnologias:
+### Tecnologias:
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
@@ -21,7 +16,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)](#)
 
-## Frameworks:
+### Frameworks:
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
@@ -37,11 +32,11 @@
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 
-## Contato:
+### Contato:
 
 📧 gabrielomarcato@gmail.com
 
-## Em geral:
+### Em geral:
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmarcato&show_icons=true&theme=tokyonight) -->
 
