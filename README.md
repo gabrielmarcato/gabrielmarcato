@@ -1,4 +1,4 @@
-## Olá me chamo Gabriel Marcato, sou desenvolvedor FullStack 🚀.
+## Olá me chamo Gabriel Marcato, sou desenvolvedor mobile 🚀.
 
 
 ### Social:
